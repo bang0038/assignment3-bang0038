@@ -1,0 +1,40 @@
+html {
+    font-family: sans-serif;
+    color: white;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.title {
+    color: black;
+    text-align: center;
+}
+
+body { 
+	max-width: 1000px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+}
+
+#xmas {
+    background-color: green;
+    padding: 1em;
+    margin: 1em;
+}
+
+#new {
+    background-color: gold;
+    padding: 1em;
+    margin: 1em;
+}
+
+#val {
+    background-color: pink;
+    padding: 1em;
+    margin: 1em;
+}
